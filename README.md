@@ -21,7 +21,7 @@ I'm currently exploring:
 
 ##  Current Experiments
 
-- **Visual Agent QA Framework** → [Insert link]  
+-  [QA for LLMs Human-in-the-Loop](https://gist.github.com/lmacelloni/8cfefc9e32e7eb5bb719b0759d337d14.js)  
 - **Prompt-to-Brand System Prototype** → [Insert link]
 
 ---
