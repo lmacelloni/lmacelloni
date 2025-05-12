@@ -1,65 +1,52 @@
-Hey, I'm Lucas — a visual strategist, creative director, and someone deeply curious about the intersection between artificial intelligence, symbolic systems, and visual storytelling.
+Hi! I'm a Senior Art Director passionate about the fusion of design, technology, and visual storytelling. I explore the edges between artificial intelligence, image manipulation, and brand expression.
 
-I currently work at **Seven7th Brasil**, a growth marketing agency, where I explore how AI can co-create meaningful visual identities, enhance creative workflows, and challenge the boundaries between tool and language.
+Currently working at [7th Digital](https://www.7th.digital).
 
-Based in São Paulo, Brazil, working remotely  
-Portfolio → 
-Socials → 
-
----
-
-## Research Directions
-
-I'm currently exploring:
-
-- **Image as code**: Prompt engineering as a form of symbolic writing  
-- **AI x Branding**: How intelligent agents can help maintain consistent brand voices and visuals  
-- **Post-tool design**: Building workflows where AI acts less like a plugin, more like a co-creator  
-- **Design QA**: Evaluating and training visual agents for quality and intent
+Reach me on:  
+[Twitter / X](https://x.com/macelloni_)  
+[Instagram](https://www.instagram.com/lmacelloni/)  
+[LinkedIn](https://www.linkedin.com/in/lucas-macelloni/)  
+[Behance](https://www.behance.net/lmacelloni)  
+Email: macelloni.lma@gmail.com  
 
 ---
 
-##  Research:
+## Research & Experiments
 
-[**QA for LLMs Human-in-the-Loop**](https://gist.github.com/lmacelloni/8cfefc9e32e7eb5bb719b0759d337d14)
-
-**Prompt-to-Brand System Prototype** 
-
----
-
-## Writing & Docs
-
-- [Visual Intelligence: First Notes]  
-- [The Director of Artificial Art]  
-- [On Image Grammar and Neural Taste]  
-
-_(links soon)_
+[Quality Assurance for Large Language Models: A Human-in-the-Loop Framework](https://gist.github.com/lmacelloni/8cfefc9e32e7eb5bb719b0759d337d14)
+- A visual and conceptual study on how humans can supervise AI behavior through feedback loops.  
 
 ---
 
-## Tools I Use
+## Highlights
 
-- AI: ChatGPT, DALL·E, Midjourney, Runway ML, Adobe Firefly  
-- Design: Photoshop, Lightroom, Illustrator  
-- Web: HTML/CSS, WordPress + Elementor  
-- Others: Notion, Framer, VS Code
+**Cloy – Social Media & Motion**  
+[behance.net/gallery/181384243/Cloy-Social-2023](https://www.behance.net/gallery/181384243/Cloy-Social-2023)
 
----
+**Fortnite / Epic Games – Photo Manipulation**  
+[behance.net/gallery/181545955/Fortnite-Epic-Games-(Photomanipulation)](https://www.behance.net/gallery/181545955/Fortnite-Epic-Games-(Photomanipulation))
 
-## Collaborations / Let's Talk?
+**Tokyo Design Festa 2024 – Cultural Fusion**  
+[behance.net/gallery/212429219/Tokyo-Design-Festa-2024-Cultural-Fusion](https://www.behance.net/gallery/212429219/Tokyo-Design-Festa-2024-Cultural-Fusion)
 
-Open to collab on:
-
-- AI research applied to design systems  
-- Building visual tools powered by LLMs  
-- Teaching others how to think in prompts  
-- Speaking / writing on the future of design x AI  
-
-📫 Get in touch → macelloni.lma@gmail.com
+**Água Pura Everest – Retouch & Social**  
+[behance.net/gallery/181444475/Agua-Pura-Retouch-Social-2023](https://www.behance.net/gallery/181444475/Agua-Pura-Retouch-Social-2023)
 
 ---
 
-> "image is memory in motion. AI is motion with memory."  
+## Skills
+
+- Art Direction  
+- Visual Design (Photoshop, Illustrator, Lightroom)  
+- Video Editing (Premiere, After Effects)  
+- Branding & Storytelling  
+- Photo Manipulation & Retouching  
+- WordPress & Elementor  
+- Basic Paid Media & Tagging  
+- Creative Strategy  
+- AI Testing & Prompt Engineering
+
+---
+
+> "image is memory in motion. AI is motion with memory."
 > Let's build from both.
-
-
