@@ -3,7 +3,6 @@ Hi! I'm a Senior Art Director passionate about the fusion of design, technology,
 Currently working at [7th Digital](https://www.7th.digital).
 
 Reach me on:  
-[Twitter / X](https://x.com/macelloni_)  
 [Instagram](https://www.instagram.com/lmacelloni/)  
 [LinkedIn](https://www.linkedin.com/in/lucas-macelloni/)  
 [Behance](https://www.behance.net/lmacelloni)  
