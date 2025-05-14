@@ -16,10 +16,21 @@ Email: macelloni.lma@gmail.com
 - A visual and conceptual study on how humans can supervise AI behavior through feedback loops.
 
 [The Mass Effect of AI-Assisted Solutions (SAAs)](https://gist.github.com/lmacelloni/0ecc5a9dde6c2ae4ca38196876f48f86)
-- How Automation Is Reshaping the Digital Economy and Human Labor.  
+- How Automation Is Reshaping the Digital Economy and Human Labor.
+
+[Contextual Debugging](https://gist.github.com/lmacelloni/da35a2c8ba3a1d5acd9b593411e5950a)
+- A Study on Real Error Recovery.
 
 ---
+## References
 
+Radboud University Nijmegen, Netherlands
+
+[Letter 01](https://drive.google.com/file/d/12667xDKQHZHhdY0CJoUVv5S3E5Mb2bee/view?usp=sharing)
+
+[Letter 02](https://drive.google.com/file/d/1cu3HPCqnk92Q5YsXUHaRlsfhJug6b2uT/view?usp=sharing)
+
+---
 ## Highlights
 
 **Cloy – Social Media & Motion**  
