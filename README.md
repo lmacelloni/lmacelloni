@@ -24,14 +24,14 @@ Email: macelloni.lma@gmail.com
 ---
 ## References
 
-Radboud University Nijmegen, Netherlands
+Location: Radboud University Nijmegen, Netherlands
 
 [From a Post doc at RadboudUMC](https://drive.google.com/file/d/12667xDKQHZHhdY0CJoUVv5S3E5Mb2bee/view?usp=sharing)
 
 [From a Master in Full-stack Software Developer](https://drive.google.com/file/d/1cu3HPCqnk92Q5YsXUHaRlsfhJug6b2uT/view?usp=sharing)
 
 ---
-## Highlights
+## Art Director Highlights
 
 **Cloy – Social Media & Motion**  
 [behance.net/gallery/181384243/Cloy-Social-2023](https://www.behance.net/gallery/181384243/Cloy-Social-2023)
