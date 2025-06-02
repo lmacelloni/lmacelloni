@@ -15,11 +15,14 @@ Email: macelloni.lma@gmail.com
 [Quality Assurance for Large Language Models: A Human-in-the-Loop Framework](https://gist.github.com/lmacelloni/8cfefc9e32e7eb5bb719b0759d337d14)
 - A visual and conceptual study on how humans can supervise AI behavior through feedback loops.
 
-[The Mass Effect of AI-Assisted Solutions (SAAs)](https://gist.github.com/lmacelloni/0ecc5a9dde6c2ae4ca38196876f48f86)
+[The Mass Effect of AI-Assisted Solutions (SAAs)](https://gist.github.com/lmacelloni/0ecc5a9dde6c2ae4ca38196876f48f86).
 - How Automation Is Reshaping the Digital Economy and Human Labor.
-
+  
 [Contextual Debugging](https://gist.github.com/lmacelloni/da35a2c8ba3a1d5acd9b593411e5950a)
 - A Study on Real Error Recovery.
+  
+[Prompt Chain of Custody](https://gist.github.com/lmacelloni/bcbfe809e58e1920ff9d456eb277d192)
+- Reclaiming Human Intent in the Era of Autonomous AI.
 
 ---
 ## References
