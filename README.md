@@ -33,7 +33,7 @@ Location: Netherlands, Germany, Tokyo.
 
 [From a Master in Full-stack Software Developer](https://drive.google.com/file/d/1cu3HPCqnk92Q5YsXUHaRlsfhJug6b2uT/view?usp=sharing)
 
-[From a Marketing specialist from Tokyo](https://drive.google.com/file/d/1_VombdpedNwvtXa4A4QwUZ-vxFH43lDz/view?usp=sharing)
+[From a Marketing specialist in Tokyo](https://drive.google.com/file/d/1_VombdpedNwvtXa4A4QwUZ-vxFH43lDz/view?usp=sharing)
 
 ---
 ## Art Director Highlights
