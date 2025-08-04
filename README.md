@@ -7,6 +7,7 @@ Reach me on:
 [LinkedIn](https://www.linkedin.com/in/lucas-macelloni/)  
 [Behance](https://www.behance.net/lmacelloni)  
 [are.na](https://www.are.na/lucas-macelloni/channels)
+
 Email: macelloni.lma@gmail.com  
 
 ---
