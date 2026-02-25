@@ -1,6 +1,6 @@
 Hi! I'm a Senior Art Director passionate about the fusion of design, technology, and visual storytelling. I explore the edges between artificial intelligence, image manipulation, and brand expression.
 
-Currently working at [7th Digital](https://www.7th.digital).
+Currently working at [stroke.ag](https://stroke.ag).
 
 Reach me on:  
 [Instagram](https://www.instagram.com/lmacelloni/)  
