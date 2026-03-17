@@ -1,6 +1,7 @@
 Hi! I'm a Senior Art Director passionate about the fusion of design, technology, and visual storytelling. I explore the edges between artificial intelligence, image manipulation, and brand expression.
 
 Currently working at [stroke.ag](https://stroke.ag).
+Founder & Creative Director at [symbios.exe](https://symbios.agency)
 
 Reach me on:  
 [Instagram](https://www.instagram.com/lmacelloni/)  
