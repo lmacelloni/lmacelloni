@@ -42,8 +42,8 @@ Location: Netherlands, Germany, Tokyo.
 ---
 ## Art Director Highlights
 
-**Cloy – Social Media & Motion**  
-[behance.net/gallery/181384243/Cloy-Social-2023](https://www.behance.net/gallery/181384243/Cloy-Social-2023)
+**SportyBet Brasil | Paulistão 2026**  
+[https://www.behance.net/gallery/246128185/SportyBet-Brasil-Paulistao-2026](https://www.behance.net/gallery/246128185/SportyBet-Brasil-Paulistao-2026)
 
 **Fortnite / Epic Games – Photo Manipulation**  
 [behance.net/gallery/181545955/Fortnite-Epic-Games-(Photomanipulation)](https://www.behance.net/gallery/181545955/Fortnite-Epic-Games-(Photomanipulation))
