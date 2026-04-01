@@ -22,8 +22,8 @@ Email: macelloni.lma@gmail.com
 [The Mass Effect of AI-Assisted Solutions (SAAs)](https://gist.github.com/lmacelloni/0ecc5a9dde6c2ae4ca38196876f48f86).
 - How Automation Is Reshaping the Digital Economy and Human Labor.
   
-[Contextual Debugging](https://gist.github.com/lmacelloni/da35a2c8ba3a1d5acd9b593411e5950a)
-- A Study on Real Error Recovery.
+[The Death of the Click](https://gist.github.com/lmacelloni/d70a186ea556b2c711067ff1162345f2)
+
   
 [Prompt Chain of Custody](https://gist.github.com/lmacelloni/bcbfe809e58e1920ff9d456eb277d192)
 - Reclaiming Human Intent in the Era of Autonomous AI.
